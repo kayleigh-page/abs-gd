@@ -11,6 +11,11 @@
 [Instagram](https://www.instagram.com/www_kayleighpilgrim_net/) |
 [Twitter](https://twitter.com/Kayleigh_Pil)
 
+<!---
+[![Kayleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleighpilgrim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleighpilgrim)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ## Skills
 ### Development
 PHP, JS6, HTML5, CSS, Bash, Powershell, C#, C, Perl, Python, Ruby. React, React Native, Laravel, Bootstrap, Drupal, Wordpress, Joomla, Prestashop, Magento, MediaWiki. Git, Web Design, UI, UX, OOP. Data Analytics, Database Design, MySQL, PostgreSQL, MS SQL.
