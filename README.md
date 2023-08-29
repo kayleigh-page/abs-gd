@@ -47,10 +47,3 @@ Studious, Creative, Solution-Oriented, Flexible, Responsible, Helpful, Empathic.
 ###### Code Red · Ethical Hacking Essentials
 ###### Code Red · Pentesting Agent: Beginner
 ###### Code Red · Pentesting Agent: Intermediate
-### Work Experience
-###### Elphame Stores · Founder (2023 - present)
-###### Angel Beats Systems · Founder (2023 - present)
-###### Angel Beats · Founder (2022 - present)
-###### Kayleigh Pilgrim · ICT Consultant (2017 - present)
-###### CloudLaunch · Founder (2017 - present)
-###### Teleweb · Senior Server Architect (2011 - 2017)
