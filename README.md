@@ -15,8 +15,11 @@
 -->
 
 ## Skills
+My **current focus** is **Node.js, React, Next.js and MongoDB**.<br>
+This does not mean that I can't help you with php, sql, wordpress, server management, security, ... anymore.<br>
+I simply want to let possible employers for bigger projects know what my current interests and fields of expertise are.
 ### Development
-PHP, JS6, HTML5, CSS, Bash, Powershell, C#, C, Perl, Python, Ruby. React, React Native, Laravel, Bootstrap, Drupal, Wordpress, Joomla, Prestashop, Magento, MediaWiki. Git, Web Design, UI, UX, OOP. Data Analytics, Database Design, MySQL, PostgreSQL, MS SQL.
+PHP, JS6, Node.js, HTML5, CSS, Bash, Powershell, C#, C, Perl, Python, Ruby. React, React Native, Laravel, Bootstrap, Drupal, Wordpress, Joomla, Prestashop, Magento, MediaWiki. Git, Web Design, UI, UX, OOP. Data Analytics, Database Design, MySQL, PostgreSQL, MS SQL.
 ### Linux
 Red Hat, Debian, Arch, Fedora, Gentoo. Apache, Nginx, MySQL, PostgreSQL, Asterisk, Exim, Postfix, Bind, PowerDNS, OpenSSH. Puppet, Foreman, Ansible, Salt, CFEngine, Icinga2, Nagios, Zabbix, Graylog, LibreNMS, OpenNMS, Docker, Vagrant, Genkins, Git. Automation, Firewalls, Hardening, Intrusion Detection, Aplication Firewalls, Custom Kernel. CPanel, DirectAdmin, Plesk, FreePBX, PfSense, NextCloud.
 ### Microsoft
@@ -31,17 +34,3 @@ AWS, Google Cloud Platform, Azure, IBM Cloud, Office 365, Sharepoint, G Suite.
 Scrum, Agile, DevOps, Project Management. Brand Building, Marketing, Social Media, SEO. Photo Editing, Video Editing.
 ### Soft Skills
 Studious, Creative, Solution-Oriented, Flexible, Responsible, Helpful, Empathic.
-
-## Experience
-### Education
-###### Ursulinen Mechelen · Business Management
-###### Syntra AB · ICT Specialist & Business Management
-###### VDAB · PHP Web Developer
-###### HarvardX · Computer Science 50
-###### Udemy · PHP Full Stack Developer Bootcamp
-###### Udemy · Become a master in Laravel
-###### Udemy · React: the complete guide
-###### Udemy · Complete guide to ChatGPT & Open AI
-###### Code Red · Ethical Hacking Essentials
-###### Code Red · Pentesting Agent: Beginner
-###### Code Red · Pentesting Agent: Intermediate
