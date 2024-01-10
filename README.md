@@ -7,8 +7,6 @@
 [kayleighpilgrim.net](https://kayleighpilgrim.net)
 ##### Follow me:
 [Linkedin](https://www.linkedin.com/in/kayleigh-pilgrim/) |
-[Facebook](https://www.facebook.com/www.kayleighpilgrim.net) |
-[Instagram](https://www.instagram.com/www_kayleighpilgrim_net/) |
 [Twitter](https://twitter.com/Kayleigh_Pil)
 
 <!---
