@@ -9,28 +9,5 @@
 [Linkedin](https://www.linkedin.com/in/kayleigh-pilgrim/) |
 [Twitter](https://twitter.com/Kayleigh_Pil)
 
-<!---
 [![Kayleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleighpilgrim)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleighpilgrim)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-## Skills
-My **current focus** is **Node.js, React, Next.js and MongoDB**.<br>
-This does not mean that I can't help you with php, sql, wordpress, server management, security, ... anymore.<br>
-I simply want to let possible employers for bigger projects know what my current interests and fields of expertise are.
-### Development
-PHP, JS6, Node.js, HTML5, CSS, Bash, Powershell, C#, C, Perl, Python, Ruby. React, React Native, Laravel, Bootstrap, Drupal, Wordpress, Joomla, Prestashop, Magento, MediaWiki. Git, Web Design, UI, UX, OOP. Data Analytics, Database Design, MySQL, PostgreSQL, MS SQL.
-### Linux
-Red Hat, Debian, Arch, Fedora, Gentoo. Apache, Nginx, MySQL, PostgreSQL, Asterisk, Exim, Postfix, Bind, PowerDNS, OpenSSH. Puppet, Foreman, Ansible, Salt, CFEngine, Icinga2, Nagios, Zabbix, Graylog, LibreNMS, OpenNMS, Docker, Vagrant, Genkins, Git. Automation, Firewalls, Hardening, Intrusion Detection, Aplication Firewalls, Custom Kernel. CPanel, DirectAdmin, Plesk, FreePBX, PfSense, NextCloud.
-### Microsoft
-Server, Client, Exchange, IIS, Active Directory, SQL Server, HyperV, Network Load Balancing, Remote Desktop Services, DNS, Sharepoint, Office 365, Azure, hMailserver.
-### Security
-Firewalls, Application Firewalls, Backup Solutions, Data Recovery, Antivirus. Intrusion Detection, Intrustion Prevention, Penetration Testing.
-### Network
-TCP/IP, Routing, Datacenters, BGP. WiFi, Bluetooth, Fiber, Ethernet. Hypervisors, VPN, High Availability, VoIP. Cisco, Juniper, Arista, Huawei, Dell, NetGear, MikroTik, Ubiquiti.
-### Cloud
-AWS, Google Cloud Platform, Azure, IBM Cloud, Office 365, Sharepoint, G Suite.
-### Other
-Scrum, Agile, DevOps, Project Management. Brand Building, Marketing, Social Media, SEO. Photo Editing, Video Editing.
-### Soft Skills
-Studious, Creative, Solution-Oriented, Flexible, Responsible, Helpful, Empathic.
