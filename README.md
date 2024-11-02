@@ -2,9 +2,6 @@
 <h2 align="center">Helping your brand succeed since 2008.</h2>
 <h3 align="center">Full-Stack Developer ★ Server Architect ★ DevOps Consultant ★ Security Expert ★ Brand Builder ★ Coach</h3>
 
-<p>I'm a Full-Stack Web Developer, Server Architect, DevOps Consultant, Security Expert and Marketing Specialist from Belgium. </p>
-<p>When I'm not coding or working on my servers; I read, study, work out, game or spend some time hiking.</p>
-
 - 👨‍💻 All of my projects are available at [https://kayleighpilgrim.net/portfolio.php](https://kayleighpilgrim.net/portfolio.php)
 
 - 📝 I regularly write articles on [https://kayleighpilgrim.net/blog.php](https://kayleighpilgrim.net/blog.php)
