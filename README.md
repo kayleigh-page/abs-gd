@@ -2,9 +2,9 @@
 <h2 align="center">Helping your brand succeed since 2008.</h2>
 <h3 align="center">Full-Stack Developer ★ Server Architect ★ DevOps Consultant ★ Security Expert ★ Brand Builder ★ Coach</h3>
 
-- 👨‍💻 All of my projects are available at [https://kayleighpilgrim.net/portfolio.php](https://kayleighpilgrim.net/portfolio.php)
+[//]: # (- 👨‍💻 All of my projects are available at [https://kayleighpilgrim.net/portfolio.php]https://kayleighpilgrim.net/portfolio.php)
 
-- 📝 I regularly write articles on [https://kayleighpilgrim.net/blog.php](https://kayleighpilgrim.net/blog.php)
+[//]: # (- 📝 I regularly write articles on [https://kayleighpilgrim.net/blog.php]https://kayleighpilgrim.net/blog.php)
 
 - 💬 Ask me about **JavaScript, PHP, React, Node.js, Laravel, Linux**
 
