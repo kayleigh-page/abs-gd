@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, PHP, React, Node.js, Laravel, Linux**
 
-- 📫 How to reach me **kayleigh@kayleighpilgrim.net**
+- 📫 Email: **kayleigh@kayleighpilgrim.net**
 
 - 📄 Website: [https://kayleighpilgrim.net](https://kayleighpilgrim.net)
 
