@@ -13,27 +13,27 @@ I create secure, high-performance systems and content platforms that scale; with
 
 
 ## 🧰 Tech I Work With
-###**Languages & Frameworks**  
+### **Languages & Frameworks**  
 `JavaScript`, `Node.js`, `Next.js`, `PHP`, `Larabel`, `GraphQL`, `Express`
 
-###**DevOps & Backend**  
+### **DevOps & Backend**  
 `Linux`, `Nginx`, `MariaDB`, `MongoDB`, `Redis`,  `Docker`, `Git`, `Bash`, `Puppet`, `Icinga2`
 
-###**Frontend**  
+### **Frontend**  
 `Next.js`, `React`, `Tailwind CSS`, `SWR`, `Quill.js`, `Next-PWA`
 
-###**Security & Performance**  
+### **Security & Performance**  
 `2FA`, `bcrypt`, `Helmet`, `express-rate-limit`, `ModSecurity`, `Fail2Ban`, `JWT`, `CORS`, `CDN`, `Application Firewalls`, `Intrustion Destection`
 
 
 ## ✨ Featured Projects
-🔧 [**Blogger CMS API & Dashboard**](https://github.com/kayleigh-page/blogger)  
+### 🔧 [**Blogger CMS API & Dashboard**](https://github.com/kayleigh-page/blogger)  
 Custom-built GraphQL API and Mxt.js admin dashboard to manage blog posts, SEO data, portfolio items, and more; with secure login, 2FA, rate limiting, and image uploads.
 
-🌍 [**kayleigh.page**](https://kayleigh.page)  
+### 🌍 [**kayleigh.page**](https://kayleigh.page)  
 My personal portfolio site, blog, and service hub; built with Next.js and powered by my CMS API Blogger. Includes dynamic SEO, newsletter signup, testimonials, and CV.
 
-📊 **Server Monitoring Platform**  
+### 📊 **Server Monitoring Platform**  
 In-progress DevOps platform with Next.js frontend, Python agent, and secure Node.js GraphQL API; includes per-server stats, history charts, and email alerts.
 
 
