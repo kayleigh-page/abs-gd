@@ -8,7 +8,7 @@ I create secure, high-performance systems and content platforms that scale — w
 
 ## 🧠 What I Do
 
-- 🌐 **Fullstack Development** – Custom apps with Node.js, Next.js, GraphQL, MongoDB & Tailwind
+- 🌐 **Fullstack Development** – Custom apps with Node.js, Next.js, GraphQL, MongoDB, PHP, Laravel & Tailwind
 - 🛠 **DevOps & Infrastructure** – Scalable, secure Linux environments with CI/CD pipelines
 - 🔐 **Cybersecurity** – From hardened servers to secure auth, rate limiting & 2FA
 - 📈 **SEO & Content Architecture** – Technical SEO, sitemaps, dynamic metadata, and fast-loading frontend UX
@@ -19,38 +19,35 @@ I create secure, high-performance systems and content platforms that scale — w
 ## 🧰 Tech I Work With
 
 **Languages & Frameworks**  
-`JavaScript`, `Node.js`, `Next.js`, `PHP`, `Blade`, `GraphQL`, `Express`, `Alpine.js`
+`JavaScript`, `Node.js`, `Next.js`, `PHP`, `Larabel`, `GraphQL`, `Express`
 
 **DevOps & Backend**  
-`Linux`, `Nginx`, `MariaDB`, `MongoDB`, `Redis`, `systemd`, `Docker`, `Git`, `Bash`
+`Linux`, `Nginx`, `MariaDB`, `MongoDB`, `Redis`,  `Docker`, `Git`, `Bash`, `Puppet`, `Icinga2`
 
 **Frontend**  
-`Tailwind CSS`, `SWR`, `Editor.js`, `Quill.js`, `Next-PWA`, `React`
+`Next.js`, `React`, `Tailwind CSS`, `SWR`, `Quill.js`, `Next-PWA`
 
 **Security & Performance**  
-`2FA`, `bcrypt`, `Helmet`, `express-rate-limit`, `ModSecurity`, `Fail2Ban`, `JWT`, `CORS`, `CDN`
+`2FA`, `bcrypt`, `Helmet`, `express-rate-limit`, `ModSecurity`, `Fail2Ban`, `JWT`, `CORS`, `CDN`, `Application Firewalls`, `Intrustion Destection`
 
 ---
 
 ## ✨ Featured Projects
 
 🔧 [**Blogger CMS API & Dashboard**](https://github.com/kayleigh-page/blogger)  
-Custom-built GraphQL API and admin dashboard to manage blog posts, SEO data, portfolio items, and more — with secure login, 2FA, rate limiting, and image uploads.
+Custom-built GraphQL API and Mxt.js admin dashboard to manage blog posts, SEO data, portfolio items, and more — with secure login, 2FA, rate limiting, and image uploads.
 
 🌍 [**kayleigh.page**](https://kayleigh.page)  
-My personal portfolio site, blog, and service hub — built with Next.js and powered by my CMS API. Includes dynamic SEO, newsletter signup, testimonials, and CV.
+My personal portfolio site, blog, and service hub — built with Next.js and powered by my CMS API Blogger. Includes dynamic SEO, newsletter signup, testimonials, and CV.
 
 📊 **Server Monitoring Platform**  
-In-progress DevOps platform with PHP/JS frontend, Python agent, and secure REST API — includes per-server stats, history charts, and email alerts.
+In-progress DevOps platform with Next.js frontend, Python agent, and secure Node.js GraphQL API — includes per-server stats, history charts, and email alerts.
 
 ---
 
 ## 📬 Get in Touch
 
 - 🌐 Website: [kayleigh.page](https://kayleigh.page)
-- 💌 Email: hello@kayleigh.page
-- 🐦 Twitter: [@hexlivia](https://twitter.com/hexlivia)
-- 💼 LinkedIn: [linkedin.com/in/kayleigh-page](https://www.linkedin.com/in/kayleigh-page)
 
 ---
 
