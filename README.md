@@ -23,7 +23,7 @@ I create secure, high-performance systems and content platforms that scale; with
 `Next.js`, `React`, `Tailwind CSS`, `SWR`, `Quill.js`, `Next-PWA`
 
 ### **Security & Performance**  
-`2FA`, `bcrypt`, `Helmet`, `express-rate-limit`, `ModSecurity`, `Fail2Ban`, `JWT`, `CORS`, `CDN`, `Application Firewalls`, `Intrustion Destection`
+`2FA`, `bcrypt`, `Helmet`, `express-rate-limit`, `ModSecurity`, `Fail2Ban`, `JWT`, `CORS`, `CDN`, `Suricata`
 
 
 ## ✨ Featured Projects
