@@ -14,7 +14,7 @@ I create secure, high-performance systems and content platforms that scale; with
 
 ## 🧰 Tech I Work With
 ### **Languages & Frameworks**  
-`JavaScript`, `Node.js`, `Next.js`, `PHP`, `Larabel`, `GraphQL`, `Express`
+`JavaScript`, `Node.js`, `Next.js`, `PHP`, `Laravel`, `GraphQL`, `Express`
 
 ### **DevOps & Backend**  
 `Linux`, `Nginx`, `MariaDB`, `MongoDB`, `Redis`,  `Docker`, `Git`, `Bash`, `Puppet`, `Icinga2`
