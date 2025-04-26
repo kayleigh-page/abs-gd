@@ -46,3 +46,6 @@ In-progress DevOps platform with Next.js frontend, Python agent, and secure Node
 > *“Clean code. Secure systems. Real-world results.”*
 
 Feel free to fork, star, or reach out if you’d like to collaborate 🤍
+
+
+[![Kayleigh Page's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleigh-page)](https://github.com/anuraghazra/github-readme-stats)
